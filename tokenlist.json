@@ -1,3 +1,11 @@
-[
-    
-]
+{
+      "address": "TDkXuEK3NrKX86ojBGyT32CpUtk3MhmU3L",
+      "symbol": "TgCPA3456",
+      "name": "telegram:cpa3456",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/XiaomiYe/cpa3456/main/logo.png",
+      "homepage": "https://cpa3456.io/",
+      "MarketCapLink": "https://coinmarketcap.com/currencies/wink/",
+      "existingMarkets": [
+    ]
+}
